@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Use Case Diagram" id="eTLFL9LnC2VrAk2l0UX2">
+    <mxGraphModel dx="1209" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xo1p09smHaCqMFGu93eN-1" value="Digital Process Support – Internal Systems&#xa;Internal Requests Workflow Automation System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007ACC;fillColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="285" y="125" width="678" height="575" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-2" value="Submit Request" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#007ACC;fontSize=13;" vertex="1" parent="Xo1p09smHaCqMFGu93eN-1">
+          <mxGeometry x="14.10733090909091" y="103.57142857142856" width="172.58181818181816" height="68.45238095238093" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-3" value="View Request Status" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#007ACC;fontSize=13;" vertex="1" parent="Xo1p09smHaCqMFGu93eN-1">
+          <mxGeometry x="19.526400000000024" y="344.04761904761904" width="197.2363636363636" height="68.45238095238093" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-4" value="Approve/Reject Request" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#007ACC;fontSize=13;" vertex="1" parent="Xo1p09smHaCqMFGu93eN-1">
+          <mxGeometry x="422.9684509090908" y="110.7142857142857" width="234.2181818181818" height="68.45238095238093" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-5" value="Send Notification" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#007ACC;fontSize=13;" vertex="1" parent="Xo1p09smHaCqMFGu93eN-1">
+          <mxGeometry x="432.83125527272716" y="344.04761904761904" width="197.2363636363636" height="68.45238095238093" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-6" value="Manage Users" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#007ACC;fontSize=13;" vertex="1" parent="Xo1p09smHaCqMFGu93eN-1">
+          <mxGeometry x="132.34757236363632" y="447.6190476190475" width="184.9090909090909" height="68.45238095238093" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-7" value="Generate Reports" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#007ACC;fontSize=13;" vertex="1" parent="Xo1p09smHaCqMFGu93eN-1">
+          <mxGeometry x="366.6594414545454" y="447.6190476190475" width="197.2363636363636" height="68.45238095238093" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-8" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=#007ACC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="105" y="380" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-9" value="Secretariat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=#007ACC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1084" y="397" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-10" value="System Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=#007ACC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="586" y="795" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-11" style="endArrow=none;strokeColor=#007ACC;" edge="1" parent="1" source="Xo1p09smHaCqMFGu93eN-8" target="Xo1p09smHaCqMFGu93eN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-12" style="endArrow=none;strokeColor=#007ACC;" edge="1" parent="1" source="Xo1p09smHaCqMFGu93eN-8" target="Xo1p09smHaCqMFGu93eN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-13" style="endArrow=none;strokeColor=#007ACC;" edge="1" parent="1" source="Xo1p09smHaCqMFGu93eN-9" target="Xo1p09smHaCqMFGu93eN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-14" style="endArrow=none;strokeColor=#007ACC;" edge="1" parent="1" source="Xo1p09smHaCqMFGu93eN-9" target="Xo1p09smHaCqMFGu93eN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-15" style="endArrow=none;strokeColor=#007ACC;" edge="1" parent="1" source="Xo1p09smHaCqMFGu93eN-10" target="Xo1p09smHaCqMFGu93eN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-16" style="endArrow=none;strokeColor=#007ACC;" edge="1" parent="1" source="Xo1p09smHaCqMFGu93eN-10" target="Xo1p09smHaCqMFGu93eN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo1p09smHaCqMFGu93eN-17" value="Panagiotis Zois – Project Analyst" style="text;html=1;align=right;verticalAlign=bottom;fontSize=12;fontColor=#007ACC;" vertex="1" parent="1">
+          <mxGeometry x="900" y="760" width="250" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
