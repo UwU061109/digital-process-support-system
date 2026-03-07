@@ -1,0 +1,49 @@
+<mxfile host="embed.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="unique-diagram-id">
+    <mxGraphModel dx="769" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#10739e;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Request Approval Process Flow&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="150" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="swimlane;startSize=30;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;" value="Student" vertex="1">
+          <mxGeometry height="200" width="350" x="100" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;image=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI4IiBmaWxsPSIjMDBmZjAwIi8+PC9zdmc+;imageAlign=left;imageVerticalAlign=middle;spacingLeft=5;imageWidth=20;imageHeight=20;" value="Start" vertex="1">
+          <mxGeometry height="50" width="250" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;image=mxgraph.office.mail;imageAlign=left;imageVerticalAlign=middle;spacingLeft=5;imageWidth=20;imageHeight=20;" value="Submit Request" vertex="1">
+          <mxGeometry height="50" width="250" x="50" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="swimlane;startSize=30;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;" value="Secretariat" vertex="1">
+          <mxGeometry height="200" width="350" x="100" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="6" style="shape=rhombus;rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;image=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjNjQ5NWVkIiBkPSJNMTIgMi41TDQgMTJMTEuNSAyMS41TDIwIDEyTDEyIDIuNXoiLz48L3N2Zz4=;imageAlign=left;imageVerticalAlign=middle;spacingLeft=5;imageWidth=20;imageHeight=20;" value="Review Request" vertex="1">
+          <mxGeometry height="80" width="200" x="75" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#10739e;" value="Approved?" vertex="1">
+          <mxGeometry height="20" width="100" x="125" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="swimlane;startSize=30;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;" value="System" vertex="1">
+          <mxGeometry height="300" width="350" x="100" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;image=mxgraph.flowchart.check;imageAlign=left;imageVerticalAlign=middle;spacingLeft=5;imageWidth=20;imageHeight=20;" value="Send Approval Notification" vertex="1">
+          <mxGeometry height="50" width="250" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;image=mxgraph.flowchart.cross;imageAlign=left;imageVerticalAlign=middle;spacingLeft=5;imageWidth=20;imageHeight=20;" value="Send Rejection Notification" vertex="1">
+          <mxGeometry height="50" width="250" x="50" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;image=mxgraph.basic.bar_chart;imageAlign=left;imageVerticalAlign=middle;spacingLeft=5;imageWidth=20;imageHeight=20;" value="Log Data for Reporting" vertex="1">
+          <mxGeometry height="50" width="250" x="50" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;image=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI4IiBmaWxsPSIjZmYwMDAwIi8+PC9zdmc+;imageAlign=left;imageVerticalAlign=middle;spacingLeft=5;imageWidth=20;imageHeight=20;" value="End" vertex="1">
+          <mxGeometry height="40" width="150" x="200" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#10739e;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Panagiotis Zois – Project Analyst&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="250" x="550" y="800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
